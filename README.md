@@ -19,6 +19,7 @@ Predicted house prices
 Evaluated model using:
 Mean Squared Error (MSE)
 R² Score
+
 Tools & Technologies Used
 Python
 Google Colab
@@ -27,6 +28,7 @@ NumPy
 Matplotlib
 Seaborn
 Scikit-learn
+
 Outcome
 
 The Linear Regression model successfully predicted house prices with good accuracy. The project demonstrated the relationship between housing features and price prediction.
